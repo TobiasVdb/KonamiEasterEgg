@@ -1,0 +1,9 @@
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\bin\Debug\KonamiEasterEgg.exe.config
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\bin\Debug\KonamiEasterEgg.exe
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\bin\Debug\KonamiEasterEgg.pdb
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.csprojResolveAssemblyReference.cache
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.Form1.resources
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.Properties.Resources.resources
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.csproj.GenerateResource.Cache
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.exe
+C:\Users\Tobias\Dropbox\Ideas & Projects\21. Build Konami Easter Egg Class\KonamiEasterEgg\KonamiEasterEgg\obj\Debug\KonamiEasterEgg.pdb
